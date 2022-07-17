@@ -1,12 +1,9 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966))](https://github.com/sidghimire)
+[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://github.com/sidghimire)
 <h1 align="center">Hi 👋, I'm Siddhartha Ghimire</h1>
 <h3 align="center">A passionate all rounder programmer. Good with Apps, Websites And Python</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://c4.wallpaperflare.com/wallpaper/111/745/193/reactjs-javascript-programming-programming-language-hd-wallpaper-preview.jpg)"/>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidghimire&label=Profile%20views&color=0e75b6&style=flat" alt="sidghimire" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidghimire" alt="sidghimire" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sid_ghimire" target="blank"><img src="https://img.shields.io/twitter/follow/sid_ghimire?logo=twitter&style=for-the-badge" alt="sid_ghimire" /></a> </p>
 
 - 🔭 I’m currently working on [Project Network](https://github.com/sidghimire/ProjectNetwork)
 
