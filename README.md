@@ -17,6 +17,11 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+<h3 align="left">Project Demo:</h3>
+
+<i><h4 align="left">Project Network:</h4></i>
+<img align="center" alt="Coding" width="200" src="https://github.com/sidghimire/sidghimire/blob/main/mainApp.gif"/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sid_ghimire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sid_ghimire" height="30" width="40" /></a>
