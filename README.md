@@ -20,7 +20,10 @@
 <h3 align="left">Project Demo:</h3>
 
 <i><h4 align="left">Project Network:</h4></i>
-<img align="center" alt="Coding" width="200" src="https://github.com/sidghimire/sidghimire/blob/main/mainApp.gif"/>
+<div>
+<img align="center" alt="Coding" width="200" src="https://github.com/sidghimire/sidghimire/blob/main/ezgif-3-7a040678f0.gif"/>
+<img align="center" alt="Coding" width="200" src="https://github.com/sidghimire/sidghimire/blob/main/ezgif-3-c2d3445d63.gif"/>
+</div>
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
