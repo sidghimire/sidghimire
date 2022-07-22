@@ -23,7 +23,7 @@
 <div>
 <img align="center" alt="Coding" width="200" src="https://github.com/sidghimire/sidghimire/blob/main/ezgif-3-7a040678f0.gif"/>
 <img align="center" alt="Coding" width="200" src="https://github.com/sidghimire/sidghimire/blob/main/ezgif-3-c2d3445d63.gif"/>
-<img align="center" alt="Coding" width="200" src="https://github.com/sidghimire/sidghimire/blob/main/ezgif-3-0dcc659333.gif"/>
+<img align="center" alt="Coding" width="200" src="https://github.com/sidghimire/sidghimire/blob/main/ezgif-3-005796a131.gif"/>
 
 </div>
 <br/>
